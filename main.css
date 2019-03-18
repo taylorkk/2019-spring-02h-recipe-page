@@ -1,0 +1,123 @@
+body {
+font-family: Arial, Helvetica, sans-sans-serif;
+font-size: 11px;
+}
+h1 {
+  font-family: "Trebuchet MS",Helvetica,sans-serif;
+  padding-top: 30px;
+  padding-bottom:30px;
+  color:#333333;
+  background-color: #F9F264;
+}
+h2 {
+  font-family: "Trebuchet MS",Helvetica,sans-serif;
+  font-size: 14px;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #333333;
+}
+img{
+  border: 3px solid #F9F264;
+  width:30%;
+}
+ul{
+  list-style-type: none;
+}
+
+.rule1{
+  border-bottom-style: dotted;
+  border-bottom-width: thin;
+  border-bottom-color: gray;
+  line-height: 3;
+  width:60%;
+}
+.rule2{
+  border-bottom-style: dashed;
+  border-bottom-width: thin;
+  border-bottom-color: black;
+  line-height: 3;
+  width:60%;
+}
+.rule3{
+  border-bottom-style: dotted;
+  border-bottom-width: thin;
+  border-bottom-color: gray;
+  line-height: 3;
+  width:60%;
+}
+.rule4{
+  border-bottom-style: dashed;
+  border-bottom-width: thin;
+  border-bottom-color: black;
+  line-height: 3;
+  width:60%;
+}
+.rule5{
+  border-bottom-style: dotted;
+  border-bottom-width: thin;
+  border-bottom-color: gray;
+  line-height: 3;
+  width:60%;
+}
+.rule6{
+  border-bottom-style: dashed;
+  border-bottom-width: thin;
+  border-bottom-color: black;
+  line-height: 3;
+  width:60%;
+}
+.rule7{
+  border-bottom-style: dotted;
+  border-bottom-width: thin;
+  border-bottom-color: gray;
+  line-height: 3;
+  width:60%;
+}
+.rule8{
+  border-bottom-style: dashed;
+  border-bottom-width: thin;
+  border-bottom-color: black;
+  line-height: 3;
+  width:60%;
+}
+.rule9{
+  border-bottom-style: dotted;
+  border-bottom-width: thin;
+  border-bottom-color: gray;
+  line-height: 3;
+  width:60%;
+}
+.rule10{
+  border-bottom-style: dashed;
+  border-bottom-width: thin;
+  border-bottom-color: black;
+  line-height: 3;
+  width:60%;
+}
+.rule11{
+  border-bottom-style: dotted;
+  border-bottom-width: thin;
+  border-bottom-color: gray;
+  line-height: 3;
+  width:60%;
+}
+.rule12{
+  border-bottom-style: dashed;
+  border-bottom-width: thin;
+  border-bottom-color: black;
+  line-height: 3;
+  width:60%;
+}
+ol{
+  line-height: 3;
+}
+.rule13{
+  padding-bottom: 15px;
+}
+
+footer{
+  padding-top: 30px;
+  padding-bottom:30px;
+  background-color: #333333;
+  color: #FFFFFF;
+}
