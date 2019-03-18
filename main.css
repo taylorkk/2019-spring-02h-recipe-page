@@ -20,8 +20,9 @@ img{
   border: 3px solid #F9F264;
   width:30%;
 }
-ul{
+ul.list{
   list-style-type: none;
+  padding:0;
 }
 
 .rule1{
